@@ -4,7 +4,7 @@ title: You're up and running!
 ---
 # HOLA
 
-[Link al BOE] (https://www.boe.es/boe/dias/2021/06/16/pdfs/BOE-A-2021-10026.pdf)
+[Link al BOE](https://www.boe.es/boe/dias/2021/06/16/pdfs/BOE-A-2021-10026.pdf)
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
